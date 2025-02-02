@@ -1,5 +1,9 @@
 # Chromatographic Data Analysis (Gas Chromatography) in MATLAB
 
+<p align="center">
+  <img src="exampleImageChroma.png" width="600px" alt="Your Image Alt Text">
+</p>
+
 This repository contains a **MATLAB Live Script** designed to import and analyze chromatographic data from Agilent `.ch` files. The goal is to process data from multiple experiments for a given sample and reliably identify compound peaks and their concentrations based on user-provided conversion tables.
 
 ## Overview
